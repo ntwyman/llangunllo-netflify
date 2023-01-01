@@ -1,7 +1,7 @@
 html,
 body {
   padding: 0;
-  background: #800080;
+  background: #ffffff;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
@@ -33,4 +33,9 @@ code {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
